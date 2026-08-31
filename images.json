@@ -1,0 +1,1014 @@
+{
+    "easy": [],
+    "hard": [],
+    "number": [
+        {
+            "bgImageName": "Helluva_Color_47",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h47.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h48.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_21",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h21.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h22.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_7",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h7.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h8.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_51",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h51.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h52.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_43",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h43.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h44.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_29",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h29.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h30.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_41",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h41.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h42.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_49",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h49.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h50.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_17",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h17.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h18.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_3",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h3.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h4.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_39",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h39.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h40.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_33",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h33.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h34.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_31",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h31.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h32.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_11",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h11.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h12.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_13",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h13.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h14.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_5",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h5.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h6.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_23",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h23.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h24.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_45",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h45.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h46.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_19",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h19.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h20.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_55",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h55.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h56.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_37",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h37.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h38.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_15",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h15.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h16.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_1",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h1.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h2.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_25",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h25.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h26.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_35",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h35.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h36.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_53",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h53.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h54.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_9",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h9.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h10.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Helluva_Color_27",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h27.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/h28.png",
+            "category": "HELLUVA"
+        },
+        {
+            "bgImageName": "Hazbin_Color_97",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin97.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin98.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_17",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin17.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin18.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_53",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin53.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin54.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_13",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin13.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin14.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_45",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin45.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin46.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_105",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin105.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin106.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_59",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin59.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin60.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_37",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin37.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin38.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_99",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin99.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin100.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_73",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin73.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin74.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_39",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin39.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin40.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_15",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin15.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin16.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_81",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin81.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin82.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_111",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin111.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin112.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_5",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin5.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin6.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_67",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin67.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin68.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_1",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin1.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin2.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_51",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin51.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin52.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_77",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin77.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin78.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_89",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin89.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin90.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_117",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin117.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin118.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_75",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin75.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin76.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_11",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin11.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin12.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_65",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin65.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin66.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_21",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin21.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin22.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_123",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin123.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin124.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_25",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin25.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin26.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_55",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin55.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin56.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_127",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin127.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin128.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_31",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin31.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin32.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_95",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin95.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin96.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_87",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin87.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin88.jpg",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_83",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin83.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin84.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_91",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin91.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin92.jpg",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_121",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin121.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin122.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_125",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin125.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin126.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_27",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin27.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin28.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_103",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin103.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin104.jpg",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_7",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin7.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin8.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_49",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin49.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin50.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_85",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin85.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin86.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_23",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin23.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin24.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_3",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin3.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin4.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_79",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin79.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin80.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_47",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin47.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin48.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_113",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin113.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin114.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_33",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin33.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin34.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_57",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin57.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin58.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_61",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin61.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin62.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_9",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin9.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin10.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_43",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin43.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin44.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_115",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin115.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin116.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_63",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin63.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin64.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_71",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin71.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin72.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_107",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin107.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin108.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_109",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin109.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin110.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_41",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin41.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin42.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_101",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin101.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin102.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_119",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin119.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin120.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_35",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin35.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin36.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_29",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin29.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin30.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_129",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin129.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin130.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_93",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin93.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin94.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_19",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin19.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin20.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Hazbin_Color_69",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin69.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/hazbin70.png",
+            "category": "HAZBIN"
+        },
+        {
+            "bgImageName": "Bluey_Color_7",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu7.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu7.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_36",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu36.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu36.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_41",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu41.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu41.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_11",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu11.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu11.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_9",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu9.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu9.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_23",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu23.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu23.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_37",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu37.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu37.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_39",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu39.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu39.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_32",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu32.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu32.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_40",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu40.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu40.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_42",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu42.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu42.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_15",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu15.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu15.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_24",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu24.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu24.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_30",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu30.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu30.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_38",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu38.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu38.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_13",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu13.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu13.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_6",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu6.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu6.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_18",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu18.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu18.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_5",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu5.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu5.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_14",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu14.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu14.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_22",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu22.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu22.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_34",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu34.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu34.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_4",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu4.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu4.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_21",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu21.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu21.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_12",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu12.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu12.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_33",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu33.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu33.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_17",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu17.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu17.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_2",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu2.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu2.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_25",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu25.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu25.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_1",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu1.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu1.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_31",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu31.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu31.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_20",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu20.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu20.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_16",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu16.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu16.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_35",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu35.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu35.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_19",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu19.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu19.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_3",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu3.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu3.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_29",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu29.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu29.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_10",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu10.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu10.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_28",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu28.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu28.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_8",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu8.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu8.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_27",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu27.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu27.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_26",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu26.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/bleu26.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_29",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b29.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b30.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_59",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b59.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b60.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_45",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b45.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b46.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_49",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b49.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b50.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_35",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b35.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b36.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_23",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b23.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b24.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_25",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b25.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b26.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_39",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b39.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b40.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_31",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b31.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b32.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_11",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b11.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b12.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_5",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b5.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b6.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_17",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b17.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b18.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_69",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b69.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b70.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_57",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b57.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b58.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_47",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b47.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b48.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_21",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b21.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b22.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_19",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b19.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b20.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_9",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b9.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b10.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_67",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b67.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b68.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_55",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b55.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b56.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_41",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b41.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b42.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_15",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b15.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b16.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_63",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b63.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b64.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_61",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b61.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b62.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_3",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b3.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b4.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_43",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b43.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b44.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_1",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b1.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b2.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_13",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b13.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b14.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_7",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b7.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b8.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_65",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b65.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b66.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_33",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b33.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b34.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_37",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b37.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b38.jpg",
+            "category": "BOCA TOCA"
+        },
+        {
+            "bgImageName": "Boca_Toca_Color_51",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b51.jpg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/helluvabosscolor/refs/heads/main/b52.jpg",
+            "category": "BOCA TOCA"
+        }
+    ]
+}
